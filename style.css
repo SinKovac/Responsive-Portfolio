@@ -5,6 +5,10 @@
     font-size: x-large !important;
 }
 
+body {
+    background-image: url("https://image.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg");
+   }
+
 .boxed {
     width: 500px;
     padding: 50px;
