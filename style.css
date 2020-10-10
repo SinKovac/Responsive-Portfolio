@@ -15,6 +15,10 @@ h1 {
     color: #800020;
 }
 
-
+img {
+    float: left;
+    width: 200px;
+    height: 150px;
+    margin-right: 25px;
 
 
