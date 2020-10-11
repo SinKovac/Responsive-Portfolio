@@ -9,7 +9,7 @@ Responsive portfolio design to ensure that web applications render well on a var
 
 ## Installation 
 Simply click the link below to access the page!
-
+https://sinkovac.github.io/Responsive-Portfolio/
 
 ## Usage
 <instructions>
