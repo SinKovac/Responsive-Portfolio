@@ -24,6 +24,12 @@ h1 {
     font-size: 275%;
 }
 
+.button {
+    background-color: #800020;
+    color: whitesmoke;
+    padding: 15px 32px;
+}
+
 img {
     float: left;
     width: 200px;
@@ -44,3 +50,10 @@ img {
     color: white;
     text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
