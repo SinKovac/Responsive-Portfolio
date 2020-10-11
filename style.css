@@ -1,7 +1,7 @@
 .navbar-brand {
     background-color: #800020;
     color: whitesmoke !important;
-    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    font-family: cursive !important;
     font-size: x-large !important;
 }
 
@@ -10,13 +10,18 @@ body {
    }
 
 .boxed {
-    width: 500px;
+    width: 700px;
     padding: 50px;
-    margin: 20px;
+    margin: 50px;
+    margin-top: 75px;
+    margin-block-end: 100px;
+    background-color: whitesmoke;
   }
 
 h1 {
     color: #800020;
+    font-family: Lucida;
+    font-size: 275%;
 }
 
 img {
@@ -24,5 +29,18 @@ img {
     width: 200px;
     height: 150px;
     margin-right: 25px;
+}
 
+.column {
+    margin-bottom: 25px;
+}
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
